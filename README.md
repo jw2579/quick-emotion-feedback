@@ -2,6 +2,10 @@
 
 Website link: [Emotional Feedback Channel](http://emo.uninoteshare.com:3000)
 
+# Example Page:
+Chat Room
+<img width="1264" alt="截屏2022-03-05 下午6 32 06" src="https://github.com/user-attachments/assets/d84f4de9-64e3-4ba4-a9be-2fe995c771dd">
+
 ## Introduction
 
 The Quick-Emotion Backchannel for Remote Lectures project aims to develop a fast and efficient emotion backchannel for remote lectures using an online chatroom platform. The project is built on **WebSocket**, a popular technology used in chat applications, and **ChartJS** for easy visualization of statistics. The objectives of the project include real-time statistics of each type of emotion feedback, visualization of the results, notices of results in each voting round, classroom image and message sharing, avatar and username customization, and storage of users' message history. This project aims to replace direct observation of students' faces in on-site lectures with a quick-emotion backchannel to provide valuable insights into student engagement and emotions during remote lectures.
